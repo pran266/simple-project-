@@ -1,0 +1,39 @@
+
+header{
+    height: 500px;
+    background-image: url(images/112-1127696_software-developer-hd-png-download.png);
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-size: 500px;
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 10px 10px 20px salmon;
+   
+}
+
+
+
+
+h3{
+    font-size: 30px;
+    text-align: center;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.blog{
+    margin: 30px;
+    border: 20px solid gray;
+    box-shadow: 0px 5px 20px  blueviolet;
+    text-align: center; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.form{
+    display: block;
+    text-align: center;
+    font-style: italic;
+    font-family: sans-serif;
+   
+}
+
